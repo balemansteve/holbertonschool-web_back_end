@@ -1,2 +1,0 @@
-// Display
-db.school.count()

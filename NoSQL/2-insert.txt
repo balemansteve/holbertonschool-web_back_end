@@ -1,2 +1,0 @@
-// Insert
-db.school.insert({ name: "Holberton school" })
